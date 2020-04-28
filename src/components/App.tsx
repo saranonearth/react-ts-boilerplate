@@ -4,8 +4,8 @@ interface IProps {}
 
 const App: React.FunctionComponent<IProps> = () => {
   return (
-    <div>
-      <h1>hey</h1>
+    <div className="container">
+      <h1>React-ts-boilerplate</h1>
     </div>
   );
 };
